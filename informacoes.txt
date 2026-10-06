@@ -1,1 +1,15 @@
-Projeto Meu Site
+Nome do projeto: Meu Site
+
+Descrição:
+Site desenvolvido como atividade para praticar HTML, Git e GitHub.
+
+Desenvolvedor:
+Samucake
+
+Data de início:
+06/10/2026
+
+Tecnologias utilizadas:
+HTML
+Git
+GitHub
